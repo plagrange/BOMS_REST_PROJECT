@@ -3,4 +3,4 @@ BOMS_REST_PROJECT
 
 Projet de developpement java au moyen de l'api REST
 
-test de commit depuis le pc de plagrange
+Bien lire les instructions ci_dessous avant de commencer à commiter sur ce projet
